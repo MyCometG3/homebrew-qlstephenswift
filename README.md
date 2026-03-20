@@ -11,7 +11,7 @@ QLStephenSwift is a macOS app related to Quick Look support. It is distributed h
 Add this tap:
 
 ```sh
-brew tap MyCometG3/qlstephenswift
+brew tap MyCometG3/homebrew-qlstephenswift
 ```
 
 Install the app:
